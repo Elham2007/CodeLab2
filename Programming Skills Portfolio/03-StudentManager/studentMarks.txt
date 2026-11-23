@@ -1,0 +1,11 @@
+10
+1345,John Curry,8,15,7,45
+2345,Sam Sturtivant,14,15,14,77
+9876,Lee Scott,17,11,16,99
+3724,Matt Thompson,19,11,15,81
+1212,Aisha Rahman,12,14,10,58
+4410,Maria Lopez,18,19,17,92
+5603,Omar Haddad,6,9,8,30
+7788,Chen Wei,15,16,13,70
+8021,Fatima Noor,10,12,11,52
+6159,Daniel Brooks,13,8,12,64
